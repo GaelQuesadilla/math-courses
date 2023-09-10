@@ -1,5 +1,11 @@
 {
   "test": {
     "value": "Valor de prueba"
+  },
+  "Brand": {
+    "name": "MateCursos"
+  },
+  "Routes": {
+    "index": "Inicio"
   }
 }
