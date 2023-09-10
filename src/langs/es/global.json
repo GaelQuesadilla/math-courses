@@ -7,5 +7,13 @@
   },
   "Routes": {
     "index": "Inicio"
+  },
+  "Footer": {
+    "description": "Un proyecto educativo para aprender las matemáticas de una manera interactiva.",
+    "team": "Nuestro equipo",
+    "developer": "Desarrollado por: ",
+    "teamDeveloper": "Gael González",
+    "collaborator": "Con la colaboración de: ",
+    "teamCollaborator": "Andrea Lucia,Luis Enrique,Sebastian Rodríguez,Samuel Vega"
   }
 }
