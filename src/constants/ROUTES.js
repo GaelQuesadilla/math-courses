@@ -11,4 +11,9 @@ export const ROUTES = {
     name: "Brand.name",
     Icon: TbMathFunction,
   },
+
+  COURSE: {
+    href: "/course/:courseName",
+    name: "Routes.course",
+  },
 };
