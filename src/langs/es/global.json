@@ -13,6 +13,7 @@
     "start-btn": "Iniciar curso",
     "ready-to-start": "¿Listo para iniciar?",
     "will-learn": "En este curso aprenderás sobre:",
+    "next-page": "Siguiente",
     "Operations-hierarchy": {
       "title": "Jerarquía de operaciones",
       "description": "Aprende a resolver operaciones de jerarquía de operaciones, respetando el orden que merece el álgebra"
@@ -34,5 +35,8 @@
     "teamDeveloper": "Gael González",
     "collaborator": "Con la colaboración de: ",
     "teamCollaborator": "Andrea Lucia,Luis Enrique,Sebastian Rodríguez,Samuel Vega"
+  },
+  "Words": {
+    "course": "Curso"
   }
 }

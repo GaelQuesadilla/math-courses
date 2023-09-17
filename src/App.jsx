@@ -3,6 +3,7 @@ import { Index } from "./routes/Index";
 import { MainLayout } from "./components/layouts/MainLayout";
 import { ROUTES } from "./constants/ROUTES";
 import { CoursePreview } from "./routes/CoursePreview";
+import { CourseView } from "./components/Courses/CourseView";
 
 export const App = () => {
   return (
@@ -15,6 +16,7 @@ export const App = () => {
               path={ROUTES.COURSE_PREVIEW.href}
               Component={() => <CoursePreview />}
             />
+            <Route path={ROUTES.COURSE.href} Component={() => <CourseView />} />
           </Routes>
         </MainLayout>
       </Router>
