@@ -9,6 +9,10 @@
     "index": "Inicio"
   },
   "Courses": {
+    "return-btn": "Regresar al inicio",
+    "congratulations": "¡ FELICIDADES ! 🎉",
+    "finished-course": "Has completado el curso",
+    "congratulation-message": "Has completado el curso gracias a tu esfuerzo ¡Eres  libre de regresar cuando quieras aprender algo nuevo! Recuerda nunca dejar de aprender",
     "link-btn": "Ver curso",
     "start-btn": "Iniciar curso",
     "ready-to-start": "¿Listo para iniciar?",
