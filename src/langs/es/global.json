@@ -9,18 +9,20 @@
     "index": "Inicio"
   },
   "Courses": {
+    "answer-question": "Responder",
     "return-btn": "Regresar al inicio",
     "congratulations": "¡ FELICIDADES ! 🎉",
     "finished-course": "Has completado el curso",
     "congratulation-message": "Has completado el curso gracias a tu esfuerzo ¡Eres  libre de regresar cuando quieras aprender algo nuevo! Recuerda nunca dejar de aprender",
     "link-btn": "Ver curso",
     "start-btn": "Iniciar curso",
-    "ready-to-start": "¿Listo para iniciar?",
+    "ready-to-start": "¿Listo para iniciar 🧠? 🤓☝",
     "will-learn": "En este curso aprenderás sobre:",
     "next-page": "Siguiente",
     "Operations-hierarchy": {
       "title": "Jerarquía de operaciones",
-      "description": "Aprende a resolver operaciones de jerarquía de operaciones, respetando el orden que merece el álgebra"
+      "description": "Aprende a resolver operaciones de jerarquía de operaciones, respetando el orden que merece el álgebra",
+      "knowledge": "Algebra;Lenguaje matemático;Jerarquía de operaciones"
     },
     "Mathematical-language": {
       "title": "Lenguaje matemático",
@@ -38,7 +40,7 @@
     "developer": "Desarrollado por: ",
     "teamDeveloper": "Gael González",
     "collaborator": "Con la colaboración de: ",
-    "teamCollaborator": "Andrea Lucia,Luis Enrique,Sebastian Rodríguez,Samuel Vega"
+    "teamCollaborator": "Andrea Rivera,Luis García,Sebastian Rodríguez,Samuel Vega"
   },
   "Words": {
     "course": "Curso"
