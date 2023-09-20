@@ -4,7 +4,7 @@ import react from "@vitejs/plugin-react";
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "https://gaelquesadilla.github.io/math-courses/",
+  base: "/math-courses/",
 
   test: {
     environment: "jsdom",
