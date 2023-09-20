@@ -2,7 +2,6 @@
   "name": "MateCursos",
   "short_name": "MateCursos",
   "description": "Una aplicación para cursos de matemáticas",
-  "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#007bff",
