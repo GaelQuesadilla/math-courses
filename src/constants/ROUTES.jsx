@@ -3,12 +3,12 @@ import icon from "../assets/icon-120x120.png";
 
 export const ROUTES = {
   INDEX: {
-    href: "/",
+    href: "/math-courses/",
     name: "Routes.index",
     Icon: TbHome,
   },
   BRAND: {
-    href: "/",
+    href: "/math-courses/",
     name: "Brand.name",
     Icon: () => (
       <img
@@ -22,17 +22,17 @@ export const ROUTES = {
   },
 
   COURSE_PREVIEW: {
-    href: "/preview/:courseName",
+    href: "/math-courses/preview/:courseName",
     getHref: (course) => {
-      return `/preview/${course}`;
+      return `/math-courses/preview/${course}`;
     },
     name: "Routes.preview",
   },
 
   COURSE: {
-    href: "/course/:courseName",
+    href: "/math-courses/course/:courseName",
     getHref: (course) => {
-      return `/course/${course}`;
+      return `/math-courses/course/${course}`;
     },
 
     name: "Routes.course",
