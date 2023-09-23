@@ -24,6 +24,11 @@
       "description": "Aprende a resolver operaciones de jerarquía de operaciones, respetando el orden que merece el álgebra",
       "knowledge": "Algebra;Lenguaje matemático;Jerarquía de operaciones"
     },
+    "Solution-and-verification": {
+      "title": "Solución y comprobación de ecuaciones de primer grado",
+      "description": "Aprende a resolver ecuaciones de primer grado y hacer la comprobación correspondiente",
+      "knowledge": "Algebra;Lenguaje matemático;Jerarquía de operaciones;Comprobación;Razonamiento matemático"
+    },
     "Mathematical-language": {
       "title": "Lenguaje matemático",
       "description": "Aprende a manejar el lenguaje matemático y convertir el lenguaje natural en el álgebra",

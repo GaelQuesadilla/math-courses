@@ -1,4 +1,5 @@
 export const courses = {
+  // 1
   "Mathematical-language": {
     title: "Courses.Mathematical-language.title",
     description: "Courses.Mathematical-language.description",
@@ -43,6 +44,8 @@ $3x^2$ Es otro termino que se multiplica al final. Este multiplica a nuestro res
       },
     ],
   },
+
+  //2
   "Operations-hierarchy": {
     title: "Courses.Operations-hierarchy.title",
     description: "Courses.Operations-hierarchy.description",
@@ -128,6 +131,141 @@ $$
 $$
 x=-36
 $$
+        `,
+      },
+    ],
+  },
+  // 3
+  "Solution-and-verification": {
+    title: "Courses.Solution-and-verification.title",
+    description: "Courses.Solution-and-verification.description",
+
+    course: [
+      {
+        title: "Soluciona lo siguiente",
+        text: `
+_Da solución a la siguiente ecuación de primer grado y comprueba su resultado:_
+`,
+        form: {
+          question:
+            "El doble de un numero y su mitad suman 45 ¿Cual es el numero?",
+          options: ["$x=4$", "$x=24$", "$x=18$"],
+          answer: 2,
+        },
+      },
+      {
+        title: "Explicación paso a paso",
+        text: `
+1. Identificar la pregunta y ponerle un nombre.
+En este ejemplo nos preguntan sobre un numero, al ser un numero tenemos que ponerle un nombre que en álgebra es una letra. 
+$$
+n=número
+$$
+        `,
+      },
+      {
+        title: "Explicación paso a paso",
+        text: `
+2. Escribirlo en forma de ecuación.
+“El doble de un numero” , la palabra “doble” hace referencia a la multiplicación, específicamente el multiplicar un valor por 2. Entonces, multiplicamos nuestro numero por 2.
+
+$$
+2n
+$$
+
+“Y su mitad” hace referencia a una división. Así que dividimos entre 2 nuestro numero. 
+$$
+n/2
+$$
+        `,
+      },
+      {
+        title: "Explicación paso a paso",
+        text: `
+3. Resolver.
+En este caso como tenemos una ecuación con solo una fracción, se recomienda hacer una multiplicación a la ecuación entera por el denominador para así eliminarlo y resolverlo mas fácil. Como aquí el denominador es 2 vamos a multiplicar toda la ecuación por 2, porque se puede y sigue siendo una ecuación equivalente. 
+$$
+(2) 2n + n/2 = 45
+$$
+$$
+4n + n2/2 = 90
+$$
+
+        `,
+      },
+      {
+        title: "Explicación paso a paso",
+        text: `
+$3x^2$ Es otro termino que se multiplica al final. Este multiplica a nuestro resultado por tres veces la variable $x$ ( O un número cualquiera ) al cuadrado
+        `,
+      },
+      {
+        title: "Explicación paso a paso",
+        text: `
+Simplificamos y quitamos el denominador. 
+
+$$
+4n + n = 90
+$$
+Después seguiría pasar las letras a un lado de la igualdad y los que no la tengan al otro, pero como en este caso ya lo tenemos así no sera necesario este paso. 
+$$
+4n + n = 90
+$$
+
+        `,
+      },
+      {
+        title: "Explicación paso a paso",
+        text: `
+Realizamos las operaciones 
+$$
+5n = 90
+$$
+Como queremos quitar el 5 porque le estorba al valor que deseamos encontrar, dividimos toda la ecuación por ese mismo numero.
+$$
+5/ (5n = 90)
+$$
+$$
+n = 18
+$$
+        `,
+      },
+      {
+        title: "Explicación paso a paso",
+        text: `
+Comprobación:
+Sustituimos la variable de nuestro numero por su valor en la ecuación inicial.
+$$
+n = numero
+$$
+$$
+n = 18
+$$
+$$
+2n + n/2 = 45
+$$
+$$
+2(18) + 18/2 = 45
+$$
+
+Realizamos las operaciones recordando jerarquía de operaciones, primero multiplicación y división y luego sumas y restas. 
+$$
+2(18) + 18/2 = 45
+$$
+$$
+36 + 9 = 45
+$$
+$$
+45 = 45
+$$
+        `,
+      },
+      {
+        title: "Explicación paso a paso",
+        text: `
+Por ultimo paso tenemos que dar la respuesta con palabras.
+
+**Respuesta: El numero es 18.**
         `,
       },
     ],
