@@ -3,7 +3,7 @@
     "value": "Valor de prueba"
   },
   "Brand": {
-    "name": "MateCursos"
+    "name": "MateCursos-FI"
   },
   "Routes": {
     "index": "Inicio"
@@ -19,33 +19,48 @@
     "ready-to-start": "¿Listo para iniciar 🧠? 🤓☝",
     "will-learn": "En este curso aprenderás sobre:",
     "next-page": "Siguiente",
-    "Operations-hierarchy": {
-      "title": "Jerarquía de operaciones",
-      "description": "Aprende a resolver operaciones de jerarquía de operaciones, respetando el orden que merece el álgebra",
-      "knowledge": "Algebra;Lenguaje matemático;Jerarquía de operaciones"
+    "curvas-espacio-tangentes": {
+      "title": "Curvas en el espacio y vectores tangentes",
+      "description": "Aprende a describir curvas en el espacio tridimensional mediante funciones vectoriales, calcular derivadas vectoriales, vectores tangentes unitarios y ecuaciones de rectas tangentes",
+      "knowledge": "Cálculo vectorial;Funciones paramétricas;Derivación de funciones vectoriales;Geometría diferencial;Vectores unitarios"
     },
-    "Solution-and-verification": {
-      "title": "Solución y comprobación de ecuaciones de primer grado",
-      "description": "Aprende a resolver ecuaciones de primer grado y hacer la comprobación correspondiente",
-      "knowledge": "Algebra;Lenguaje matemático;Jerarquía de operaciones;Comprobación;Razonamiento matemático"
+    "integrales-funciones-vectoriales": {
+      "title": "Integrales de funciones vectoriales y movimiento de proyectiles",
+      "description": "Domina las técnicas de integración de funciones vectoriales, tanto indefinidas como definidas, y aplica estos conceptos al análisis del movimiento parabólico de proyectiles",
+      "knowledge": "Cálculo integral vectorial;Movimiento parabólico;Cinemática;Integrales definidas e indefinidas;Modelado físico"
     },
-    "Mathematical-language": {
-      "title": "Lenguaje matemático",
-      "description": "Aprende a manejar el lenguaje matemático y convertir el lenguaje natural en el álgebra",
-      "knowledge": "Algebra;Lenguaje matemático;Descomposición de binomios"
+    "longitud-arco-espacio": {
+      "title": "Longitud de arco en el espacio",
+      "description": "Aprende a calcular la longitud de curvas espaciales mediante integración, parametrizar curvas por longitud de arco y aplicar estos conceptos en problemas de ingeniería y física",
+      "knowledge": "Geometría diferencial;Integrales definidas;Parametrización;Longitud de curva;Aplicaciones ingenieriles"
+    },
+    "curvatura-vectores-normales": {
+      "title": "Curvatura y vectores normales de una curva",
+      "description": "Comprende el concepto de curvatura como medida de la variación angular de una curva, y domina el cálculo de los vectores del triedro de Frenet: tangente, normal y binormal",
+      "knowledge": "Geometría diferencial;Curvatura y torsión;Triedro de Frenet;Planos osculador, normal y rectificante;Aplicaciones en diseño"
+    },
+    "componentes-aceleracion": {
+      "title": "Componentes tangencial y normal de la aceleración",
+      "description": "Aprende a descomponer la aceleración en sus componentes intrínsecas: tangencial (cambio en magnitud de velocidad) y normal (cambio en dirección), con aplicaciones en dinámica y diseño de trayectorias",
+      "knowledge": "Cinemática avanzada;Componentes intrínsecas;Fuerzas tangenciales y normales;Dinámica curvilínea;Aplicaciones en ingeniería"
+    },
+    "velocidad-aceleracion-polares": {
+      "title": "Velocidad y aceleración en coordenadas polares",
+      "description": "Domina la formulación de velocidad y aceleración en el sistema de coordenadas polares, incluyendo la derivación de vectores unitarios móviles y la interpretación física de términos como aceleración centrípeta y de Coriolis",
+      "knowledge": "Coordenadas polares;Vectores unitarios móviles;Momento angular;Fuerzas centrales;Aplicaciones en mecánica y robótica"
     }
   },
   "Index": {
-    "welcome": "Bienvenido a MateCursos",
-    "description": "En este sitio aprenderás a resolver distintos problemas matemáticos a través de pequeños cursos interactivos"
+    "welcome": "Bienvenido a MateCursos-FI",
+    "description": "En este sitio aprenderás a resolver distintos problemas matemáticos a través de los conocimientos que puedes adquirir en la materia de Calculo 3 en forma de pequeños cursos interactivos"
   },
   "Footer": {
     "description": "Un proyecto educativo para aprender las matemáticas de una manera interactiva.",
     "team": "Nuestro equipo",
     "developer": "Desarrollado por: ",
-    "teamDeveloper": "Gael González",
+    "teamDeveloper": "Gael González Méndez",
     "collaborator": "Con la colaboración de: ",
-    "teamCollaborator": "Andrea Rivera,Luis García,Sebastian Rodríguez,Samuel Vega"
+    "teamCollaborator": "Aaron Daniel Diaz Martinez,Frida Sofia Quintero Miranda,Saul Ponce Salazar"
   },
   "Words": {
     "course": "Curso"
